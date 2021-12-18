@@ -1,6 +1,6 @@
 # -Database-project-
 
-step 1 : please donwload laptop folder code
+step 1 : please download laptop folder code
 
 step 2: set up sql file in database
 
